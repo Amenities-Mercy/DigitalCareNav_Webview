@@ -15,7 +15,7 @@ import { DigitalCareNavigationView } from "digital-care-navigation";
 
 // ...
 
-<DigitalCareNavigationView color="tomato" />
+<DigitalCareNavigationView />
 ```
 
 ## Contributing
